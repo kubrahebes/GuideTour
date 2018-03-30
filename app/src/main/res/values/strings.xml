@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GuideTour</string>
+    <string name="tab_text_1">Galeri</string>
+    <string name="tab_text_2">Hotel</string>
+    <string name="tab_text_3">Festival</string>
+    <string name="tab_text_4">YEMEK</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hotel1">Antmare Hotel</string>
+    <string name="hotel2">Asmali Konak Hotel</string>
+    <string name="hotel3">CocoPalm Hotel</string>
+    <string name="hotel4">Cumbaki Hotel</string>
+    <string name="hotel5">Expendia Hotel</string>
+    <string name="hotel6">Viento Hotel</string>
+    <string name="festival1">Ot Festivali</string>
+    <string name="festival2">Ucurtma Festivali</string>
+    <string name="festival3">Sorf Festivali</string>
+    <string name="hoteladres">Alacati Turkiye</string>
+    <string name="ucurtma_festival1">Very Good Activity</string>
+    <string name="ucurtma_festival2">Child love ucurtma</string>
+    <string name="ucurtma_festival3">Butterfly</string>
+    <string name="ot_festival1">A lot of People come </string>
+    <string name="ot_festivali2">Womens</string>
+    <string name="ot_festivali3">Colorful Jars</string>
+    <string name="sorf_festival1">sun shine</string>
+    <string name="sorf_festival2">A lot of people come festival</string>
+    <string name="sorf_festival3">Sorf Festival</string>
+    <string name="fest1">UCURTMA FESTIVALI</string>
+    <string name="fest2">OT FESTIVALI</string>
+    <string name="fest3">SORF FESTIVALI</string>
+    <string name="restaurant1">Bizim Ev Restaurant</string>
+    <string name="restaurant2">Cesme Restaurant</string>
+    <string name="restaurant3">Marti Restaurant</string>
+    <string name="restaurant4">Wish Restaurant</string>
+    <string name="adress">Adres: Yeni Mecidiye Mahallesi 13074 Sk. No.3 Alaçatı, Çeşme İzmir</string>
+</resources>
